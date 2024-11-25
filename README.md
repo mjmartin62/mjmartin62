@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Matt!
 
-<!--
-**mjmartin62/mjmartin62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engineer | Problem Solver | Systems Integrator**
 
-Here are some ideas to get you started:
+I'm a passionate engineer specializing in Python, embedded systems, and automation. With a knack for solving complex problems, I create innovative projects that bridge hardware and software seamlessly both for self exploration and professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔭 Currently working on: Studying LLM behavior with a robotic arm
+- 📚 Currently Learning: Sensor Fusion, Real-Time Systems, Embedded C and Python Optimization
+- ⚡ Fun fact: I enjoy building physical systems that move autonomously
+
+## 🛠 Skills and Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-00599C?style=flat&logo=nvidia&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+### Tools and Frameworks
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=raspberry-pi)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-profile)
+
+
+
