@@ -2,13 +2,13 @@
 
 🚀 **Engineer | Problem Solver | Systems Integrator**
 
-I'm a passionate engineer specializing in Python, embedded systems, and automation. With a knack for solving complex problems, I create innovative projects that bridge hardware and software seamlessly both for self exploration and professionally.
+I'm a curious engineer specializing in Python, embedded systems, and automation. With a knack for solving complex problems, I create innovative projects that bridge hardware and software seamlessly both for self exploration and professionally.
 
 ## 🌟 About Me
 
-- 🔭 Currently working on: Studying LLM behavior with a robotic arm
-- 📚 Currently Learning: Sensor Fusion, Real-Time Systems, Embedded C and Python Optimization
-- ⚡ Fun fact: I enjoy building physical systems that move autonomously
+- 🔭 Currently working on: Studying LLM behavior with a robotic articulator
+- 📚 Currently Learning: Sensor Fusion and Real-Time Systems
+- ⚡ Fun fact: I enjoy building physical systems that move and interact autonomously
 
 ## 🛠 Skills and Tools
 
@@ -21,9 +21,16 @@ I'm a passionate engineer specializing in Python, embedded systems, and automati
 ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ### Tools and Frameworks
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=raspberry-pi)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gnu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-0078D4?style=flat&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=raspberry-pi)
+![Speedgoat](https://img.shields.io/badge/-Speedgoat-0078D4?style=flat&logo=speedgoat&logoColor=white)
 
 ## 🤝 Let's Connect
 
