@@ -2,7 +2,7 @@
 
 🚀 **Engineer | Problem Solver | Systems Integrator**
 
-I'm a curious engineer specializing in Python, embedded systems, and automation. With a knack for solving complex problems, I create innovative projects that bridge hardware and software seamlessly both for self exploration and professionally.
+I'm a curious engineer specializing in Python, embedded systems, and electro-mechanical automation. With a knack for solving complex problems, I create innovative projects that bridge hardware and software seamlessly both for self exploration and professionally.
 
 ## 🌟 About Me
 
