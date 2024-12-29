@@ -2,13 +2,13 @@
 
 🚀 **Engineer | Problem Solver | Systems Integrator**
 
-I'm a curious engineer specializing in Python, embedded systems, and electro-mechanical automation. With a knack for solving complex problems, I create innovative projects that bridge hardware and software seamlessly both for self exploration and professionally.
+I'm a curious engineer specializing in Python, embedded systems, and electro-mechanical automation. With a knack for solving complex problems, I create innovative systems that bridge hardware and software seamlessly both for self exploration and professionally.
 
 ## 🌟 About Me
 
-- 🔭 Currently working on: Studying LLM behavior with a robotic articulator
-- 📚 Currently Learning: Sensor Fusion and Real-Time Systems
-- ⚡ Fun fact: I enjoy building physical systems that move and interact autonomously
+- 🔭 Currently working on: Testing LLM behavior with a robotic articulator
+- 📚 Currently Learning: Sensor Fusion and TinyML with Real-Time Systems
+- ⚡ Fun fact: I enjoy building physical systems that move and interact with thier environment autonomously
 
 ## 🛠 Skills and Tools
 
