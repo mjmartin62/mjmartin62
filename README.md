@@ -6,8 +6,8 @@ I'm a curious engineer specializing in Python, embedded systems, and electro-mec
 
 ## 🌟 About Me
 
-- 🔭 Currently working on: Testing LLM behavior with a robotic articulator
-- 📚 Currently Learning: Sensor Fusion and TinyML with Real-Time Systems
+- 🔭 Currently working on: Testing LLM behavior with a robotic articulator and developing an augmented PID controller with sensor fusion
+- 📚 Currently Learning: Sensor Fusion and FreeRTOS for Real-Time Systems
 - ⚡ Fun fact: I enjoy building physical systems that move and interact with thier environment autonomously
 
 ## 🛠 Skills and Tools
